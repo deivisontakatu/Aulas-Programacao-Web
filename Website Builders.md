@@ -140,6 +140,39 @@ Analise e recomende a melhor solução (Website Builder x CMS) para o novo site 
 
 ---
 
+## 🛡️ Dicas Extras e Melhorias
+
+### Exemplos Práticos
+- Inclua capturas de tela do processo de criação e personalização do site.
+- Documente cada etapa com imagens para facilitar o acompanhamento.
+
+### Glossário Rápido
+- **Drag-and-drop:** Arrastar e soltar elementos na página.
+- **Template:** Modelo pré-definido de layout.
+- **Responsividade:** Adaptação do site para diferentes dispositivos.
+- **SEO:** Otimização para mecanismos de busca.
+
+### Checklist de Publicação
+- [ ] Conta criada no Website Builder
+- [ ] Projeto inicial configurado
+- [ ] Layout personalizado
+- [ ] Conteúdo adicionado
+- [ ] Funcionalidade interativa implementada
+- [ ] Testes de responsividade realizados
+- [ ] Backup do projeto feito
+
+### Segurança e Acessibilidade
+- Use senhas fortes e autenticação em dois fatores.
+- Adicione textos alternativos em imagens e garanta contraste adequado.
+- Teste navegação por teclado e leitores de tela.
+
+### Links Úteis
+- [Guia Wix ADI](https://support.wix.com/pt/article/criando-um-site-com-o-wix-adi)
+- [Framer AI Docs](https://www.framer.com/ai/)
+- [Checklist de Acessibilidade Web](https://www.w3.org/WAI/test-evaluate/)
+
+---
+
 ## 📚 Referências
 
 - BOROVYNSKA, Yuliia; VOVK, Oleksandr. *Investigating the vision of AI driven website builder in user interface components.* Jóvenes en la ciencia, v. 26, p. 1-5, 2024.  
@@ -150,4 +183,4 @@ Analise e recomende a melhor solução (Website Builder x CMS) para o novo site 
 
 ---
 
-💡 **Dica:** Adapte este README conforme as especificidades do seu projeto.
+💡 **Dica Final:** Revise seu site em diferentes dispositivos e peça feedback de usuários reais para aprimorar a experiência.

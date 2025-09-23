@@ -121,6 +121,44 @@ Facilita colaboração entre múltiplos usuários com diferentes níveis de aces
 
 ---
 
+## 🛡️ Dicas Extras e Melhorias
+
+### Exemplos Práticos
+- Inclua capturas de tela do processo de registro de domínio, instalação do CMS e configuração da hospedagem.
+- Sugestão: Documente cada etapa com imagens para facilitar o acompanhamento.
+
+### Comparativo de Hospedagem
+| Provedor     | Preço Inicial | Suporte | Domínio Grátis | Painel de Controle |
+|--------------|---------------|---------|----------------|--------------------|
+| HostGator    | R$ 9,99/mês   | 24h     | Sim            | cPanel             |
+| Hostinger    | R$ 7,99/mês   | 24h     | Sim            | hPanel             |
+| Locaweb      | R$ 12,90/mês  | 24h     | Sim            | cPanel             |
+
+### Glossário Rápido
+- **DNS:** Sistema que traduz nomes de domínio para endereços IP.
+- **FTP:** Protocolo para transferência de arquivos entre computador e servidor.
+- **SSL:** Certificado que garante conexão segura (https).
+
+### Links Úteis
+- [Tutorial WordPress Oficial](https://wordpress.org/support/article/new-to-wordpress-where-to-start/)
+- [Guia de Segurança WordPress](https://wordpress.org/support/article/hardening-wordpress/)
+
+### Checklist de Publicação
+- [ ] Domínio registrado
+- [ ] Hospedagem configurada
+- [ ] CMS instalado
+- [ ] Tema personalizado
+- [ ] Plugins essenciais instalados
+- [ ] Página inicial editada
+- [ ] Backup realizado
+
+### Segurança e Acessibilidade
+- Mantenha o CMS e plugins sempre atualizados.
+- Use senhas fortes e autenticação em dois fatores.
+- Adicione textos alternativos em imagens e garanta bom contraste de cores.
+
+---
+
 ## 📚 Referências
 
 - MACDONALD, Matthew. *WordPress: The Missing Manual*. 3. ed. O'Reilly Media, 2020. ISBN 978-1492074167.  
@@ -131,4 +169,4 @@ Facilita colaboração entre múltiplos usuários com diferentes níveis de aces
 
 ---
 
-💡 **Dica:** Antes de publicar, revise seu README para incluir informações específicas do seu projeto.
+💡 **Dica Final:** Revise seu site em diferentes dispositivos e navegadores para garantir boa experiência para todos os usuários.

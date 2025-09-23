@@ -184,4 +184,39 @@ Deploy é o processo de **publicar uma aplicação** para torná-la acessível a
 
 ---
 
-💡 **Dica:** Use versionamento semântico e boas práticas de Git para garantir qualidade e rastreabilidade no desenvolvimento.
+## 🛡️ Dicas Extras e Melhorias
+
+### Exemplos Práticos
+- Inclua capturas de tela dos comandos Git, criação de branches, tags e do processo de deploy no Vercel.
+- Documente cada etapa com imagens para facilitar o acompanhamento.
+
+### Glossário Rápido
+- **Commit:** Registro de alteração no repositório.
+- **Branch:** Ramificação do projeto para desenvolvimento paralelo.
+- **Merge:** Junção de alterações de diferentes branches.
+- **Tag:** Marcador de versão específica.
+- **Deploy:** Publicação do projeto para acesso público.
+
+### Checklist de Publicação
+- [ ] Repositório criado no GitHub
+- [ ] Código versionado com commits claros
+- [ ] Branches utilizadas para desenvolvimento
+- [ ] Tags aplicadas para versões estáveis
+- [ ] Deploy realizado no Vercel
+- [ ] Documentação do processo concluída
+- [ ] Backup do projeto realizado
+
+### Segurança e Boas Práticas
+- Use autenticação em dois fatores no GitHub.
+- Mantenha dependências sempre atualizadas.
+- Revise permissões de acesso ao repositório.
+- Teste o site após cada deploy.
+
+### Links Úteis
+- [Guia Oficial do Git](https://git-scm.com/doc)
+- [Documentação Vercel](https://vercel.com/docs)
+- [Guia de Versionamento Semântico](https://semver.org/lang/pt-BR/)
+
+---
+
+💡 **Dica Final:** Revise o histórico do Git antes de cada deploy e utilize tags para facilitar rollback em caso de problemas.
