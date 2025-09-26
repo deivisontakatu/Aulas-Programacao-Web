@@ -134,13 +134,50 @@ Utilize **tags semânticas** para dar significado ao conteúdo:
 
 ---
 
-## 📚 Referências
+## 🛡️ Dicas Extras e Melhorias
 
-- Mozilla Developer Network (MDN): [developer.mozilla.org](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- W3C HTML5 Specification: [w3.org/TR/html5](https://www.w3.org/TR/html5/)
-- Google SEO Starter Guide: [developers.google.com/search/docs/beginner](https://developers.google.com/search/docs/beginner)
+### Exemplos Visuais
+- Inclua capturas de tela do código HTML, resultado no navegador e exemplos de boas práticas de SEO.
+- Documente cada etapa com imagens para facilitar o acompanhamento.
+
+### Glossário Rápido
+- **Tag Semântica:** Elemento HTML que indica o significado do conteúdo (ex.: `<header>`, `<main>`, `<footer>`).
+- **Alt Text:** Texto alternativo para imagens, importante para acessibilidade e SEO.
+- **Meta Tag:** Elemento no `<head>` que fornece informações sobre a página.
+- **Responsividade:** Capacidade do site de se adaptar a diferentes tamanhos de tela.
+- **Schema.org:** Padrão de marcação para ajudar buscadores a entender o conteúdo.
+
+### Checklist de Publicação
+- [ ] Estrutura básica do HTML criada
+- [ ] Tags semânticas utilizadas corretamente
+- [ ] Imagens otimizadas e com atributo `alt`
+- [ ] Metadados preenchidos (`description`, `author`)
+- [ ] URLs amigáveis implementadas
+- [ ] Conteúdo hierarquizado com `<h1>`, `<h2>`, etc.
+- [ ] Links internos e externos revisados
+- [ ] Site testado em dispositivos móveis
+- [ ] Performance avaliada (Google PageSpeed, Lighthouse)
+
+### Dicas de Boas Práticas
+- Mantenha o código limpo e indentado.
+- Use nomes de arquivos descritivos para imagens e páginas.
+- Prefira tags semânticas para melhor SEO e acessibilidade.
+- Evite excesso de `<div>` sem propósito (div soup).
+- Teste o site em diferentes navegadores e dispositivos.
+
+### Segurança e Acessibilidade
+- Sempre utilize o atributo `alt` em imagens.
+- Garanta contraste adequado entre texto e fundo.
+- Certifique-se de que todos os links são acessíveis por teclado.
+- Use `rel="noopener noreferrer"` em links externos para segurança.
+
+### Links Úteis
+- [Guia de Acessibilidade Web](https://www.w3.org/WAI/test-evaluate/)
+- [Google PageSpeed Insights](https://pagespeed.web.dev/)
+- [Schema.org](https://schema.org/)
+- [Checklist SEO Moz](https://moz.com/blog/seo-checklist)
 
 ---
 
-💡 **Resumo:**  
-Compreender os fundamentos do HTML, saber trabalhar com **mídias** e aplicar técnicas de **SEO** são passos essenciais para criar sites bem estruturados, acessíveis e com boa performance em mecanismos de busca.
+💡 **Dica Final:**  
+Revise seu site periodicamente, mantenha o conteúdo atualizado e peça feedback de usuários reais para aprimorar a experiência e o ranqueamento nos buscadores.
